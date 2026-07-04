@@ -1,0 +1,8 @@
+{
+    "camera": 0,
+    "width": 1280,
+    "height": 720,
+    "fps": 360,
+    "record_fps": 144,
+    "show_fps": true
+}
